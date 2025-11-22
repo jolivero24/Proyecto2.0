@@ -1,0 +1,13 @@
+# Blockchain y Criptomonedas: Análisis de Seguridad y Aplicaciones Descentralizadas
+
+Autores:
+Dr. Roberto Sánchez Torres
+Dra. Patricia Gómez Ruiz
+Dr. Miguel Ángel Fernández
+
+Resumen:
+La tecnología blockchain ha revolucionado la forma en que concebimos las transacciones digitales y la gestión de datos descentralizados. Este estudio presenta un análisis exhaustivo de los protocolos de consenso más utilizados en las principales criptomonedas, incluyendo Proof of Work (PoW), Proof of Stake (PoS), y mecanismos híbridos emergentes. Se evaluaron las vulnerabilidades de seguridad en contratos inteligentes implementados en Ethereum, analizando 5,000 contratos mediante técnicas de análisis estático y dinámico. Los resultados revelan que el 23% de los contratos analizados contienen vulnerabilidades críticas como reentrancy, overflow aritmético, y problemas de control de acceso. La investigación también examina el impacto ambiental de la minería de criptomonedas, calculando que las redes PoW consumen aproximadamente 150 TWh anuales. Se proponen soluciones basadas en algoritmos de consenso más eficientes energéticamente, demostrando una reducción del 99.5% en el consumo energético al migrar de PoW a PoS. Además, se analizan aplicaciones descentralizadas (DApps) en sectores como finanzas (DeFi), gestión de identidad digital, y trazabilidad en cadenas de suministro. El estudio incluye evaluaciones de escalabilidad, donde se comparan soluciones de Layer 2 como Lightning Network y Polygon, logrando procesar hasta 65,000 transacciones por segundo. Finalmente, se discuten los desafíos regulatorios y las implicaciones económicas de la adopción masiva de blockchain en sistemas financieros tradicionales, considerando aspectos de privacidad, cumplimiento normativo, y interoperabilidad entre diferentes cadenas de bloques.
+
+Palabras claves:
+blockchain, criptomonedas, seguridad informática, contratos inteligentes, ethereum, bitcoin, descentralización, finanzas descentralizadas, proof of stake, aplicaciones descentralizadas
+

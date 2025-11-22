@@ -1,0 +1,14 @@
+# Computación Cuántica: Algoritmos, Hardware y Aplicaciones en Criptografía Post-Cuántica
+
+Autores:
+Dr. Antonio Ramírez Vega
+Dra. Elena Morales Castro
+Dr. Francisco López Herrera
+Dra. Isabel Domínguez Soto
+
+Resumen:
+La computación cuántica representa un cambio de paradigma fundamental en el procesamiento de información, aprovechando los principios de la mecánica cuántica como la superposición y el entrelazamiento para resolver problemas computacionalmente intratables para las computadoras clásicas. Este trabajo presenta una investigación integral sobre los algoritmos cuánticos más relevantes, incluyendo el algoritmo de Shor para factorización de números enteros, el algoritmo de Grover para búsqueda en bases de datos no estructuradas, y algoritmos variacionales cuánticos híbridos (VQE) para simulación molecular. Se analizaron implementaciones en diferentes arquitecturas de hardware cuántico, comparando qubits superconductores, qubits de iones atrapados, y qubits topológicos. Los experimentos realizados en sistemas cuánticos de 127 qubits demostraron una ventaja cuántica verificable en problemas específicos de optimización combinatoria. El estudio evaluó tasas de error cuántico, logrando fidelidades de puerta de dos qubits del 99.4% mediante técnicas avanzadas de corrección de errores cuánticos. Se implementaron códigos de superficie con distancia topológica d=5, permitiendo la detección y corrección de errores sin colapsar el estado cuántico. La investigación también aborda las implicaciones críticas para la criptografía actual, ya que el algoritmo de Shor puede romper RSA y curvas elípticas en tiempo polinómico. Se proponen y evalúan esquemas de criptografía post-cuántica basados en retículos matemáticos, códigos correctores de errores, y funciones hash criptográficas resistentes a ataques cuánticos. Los resultados incluyen protocolos de distribución cuántica de claves (QKD) con tasas de transmisión de 10 Mbps sobre distancias de 500 km mediante repetidores cuánticos. Se discuten aplicaciones en química computacional, donde la simulación cuántica de moléculas de hasta 100 átomos mostró una precisión superior en la predicción de propiedades electrónicas. El estudio concluye con un análisis de escalabilidad, proyectando que sistemas de 1,000 qubits lógicos podrían estar disponibles en la próxima década, revolucionando campos como la inteligencia artificial, el descubrimiento de fármacos, y la optimización logística global.
+
+Palabras claves:
+computación cuántica, algoritmos cuánticos, qubits, criptografía post-cuántica, corrección de errores cuánticos, superposición, entrelazamiento cuántico, simulación molecular, hardware cuántico, algoritmo de Shor
+

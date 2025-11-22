@@ -1,0 +1,15 @@
+# Internet de las Cosas (IoT) y Edge Computing: Arquitecturas, Seguridad y Aplicaciones en Ciudades Inteligentes
+
+Autores:
+Dra. Carmen Jiménez Navarro
+Dr. Javier Ortega Romero
+Dra. Lucía Vargas Mendoza
+Dr. Rafael Castillo Prieto
+Ing. Mónica Serrano León
+
+Resumen:
+El Internet de las Cosas (IoT) ha emergido como una tecnología transformadora que conecta miles de millones de dispositivos, generando volúmenes masivos de datos y habilitando aplicaciones innovadoras en múltiples sectores. Esta investigación presenta un análisis comprehensivo de arquitecturas IoT distribuidas, enfocándose en la integración de edge computing para reducir latencias y optimizar el procesamiento de datos en tiempo real. Se diseñó e implementó una plataforma escalable para ciudades inteligentes que integra 15,000 sensores distribuidos en áreas urbanas, monitoreando variables ambientales como calidad del aire, niveles de ruido, consumo energético, y flujo vehicular. La arquitectura propuesta utiliza protocolos de comunicación eficientes como MQTT, CoAP, y LoRaWAN, logrando una reducción del 67% en el consumo energético de los dispositivos mediante técnicas de sleep scheduling adaptativo. Se implementaron algoritmos de edge computing que procesan el 78% de los datos localmente, reduciendo la latencia promedio de 420ms a 45ms y disminuyendo el tráfico hacia la nube en un 84%. El estudio aborda exhaustivamente los desafíos de seguridad en ecosistemas IoT, identificando vulnerabilidades críticas en protocolos de autenticación, cifrado de comunicaciones, y gestión de identidades de dispositivos. Se desarrolló un framework de seguridad multinivel que incluye autenticación mutua basada en certificados X.509, cifrado AES-256 para datos en tránsito, y blockchain para registro inmutable de eventos. Las pruebas de penetración demostraron una reducción del 92% en vectores de ataque exitosos comparado con implementaciones estándar. La investigación evaluó aplicaciones prácticas en gestión de tráfico inteligente, donde sistemas de semáforos adaptativos redujeron la congestión vehicular en un 31% y disminuyeron las emisiones de CO2 en 24%. En el sector salud, se implementaron dispositivos wearables para monitoreo continuo de pacientes crónicos, detectando eventos adversos con una sensibilidad del 96.2%. El estudio también analiza la integración con inteligencia artificial, donde modelos de machine learning en el edge realizan predicciones en tiempo real con una precisión del 94.7%. Se discuten consideraciones de privacidad bajo regulaciones como GDPR, implementando técnicas de anonimización y privacidad diferencial. Los resultados demuestran que la convergencia de IoT, edge computing, y AI puede mejorar significativamente la eficiencia operacional urbana, la sostenibilidad ambiental, y la calidad de vida ciudadana, estableciendo las bases para el desarrollo de megaciudades inteligentes del futuro.
+
+Palabras claves:
+internet de las cosas, edge computing, ciudades inteligentes, sensores, arquitectura distribuida, seguridad IoT, latencia, big data, monitoreo ambiental, computación en el borde
+
